@@ -1,5 +1,5 @@
 {
-  "name": "splitargs",
+  "name": "redis-splitargs",
   "version": "1.0.0",
   "description": "Splitting arguments like a ninja",
   "main": "index.js",
