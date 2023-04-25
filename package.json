@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/luin/splitargs#readme",
   "dependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^5.2.0"
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
   }
 }
